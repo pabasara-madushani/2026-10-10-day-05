@@ -1,0 +1,28 @@
+
+
+/*element selector*/
+h1 {
+    background-color: orange;
+    color: blue;
+    text-align: center;
+}
+
+p {
+    background-color: blueviolet;
+    
+}
+
+body{
+    background-color: lightblue;
+    font-family:cursive
+}
+
+.bg-color{
+    background-color: black;
+    color: white;
+
+}
+
+#bg-p-color{
+    background-color: white;
+}
