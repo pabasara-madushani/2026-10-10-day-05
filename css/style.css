@@ -31,11 +31,18 @@ body{
     background-color: white;
 }*/
 
+/*css properties*/
+
+*{
+    margin: 0;
+}
+
 .bg-h1-one{
     background-color: blue;
     color: white;
     text-align: center;
     padding: 50px;
+    margin: 50px;
 }
 
 .bg-h1-two{
@@ -49,4 +56,6 @@ body{
     padding-bottom: 10px;
     padding-left: 30px;
     padding-right: 50px;*/
+
+    margin: 50px 100px 20px 15px; /*top right bottom left*/
 }
