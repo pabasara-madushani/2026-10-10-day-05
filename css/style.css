@@ -1,11 +1,11 @@
 
-*{
+/**{
     margin: 0;
     padding: 0;
 }
 
 /*element selector*/
-h1 {
+/* h1 {
     background-color: orange;
     color: blue;
     text-align: center;
@@ -25,8 +25,28 @@ body{
     background-color: black;
     color: white;
 
+}*/
+
+/* #bg-p-color{
+    background-color: white;
+}*/
+
+.bg-h1-one{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 50px;
 }
 
-#bg-p-color{
-    background-color: white;
+.bg-h1-two{
+    background-color: green;
+    color: white;
+    text-align: center;
+
+    padding: 25px 50px 5px 80px; /*top right bottom left*/
+
+   /* padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 50px;*/
 }
